@@ -11,3 +11,11 @@ This repository contains reflections, activities, and projects completed through
 ## Final Reflection
 
 Final reflection coming soon.
+
+## Portfolio Sections
+
+- [M1: The Unasked Question](m1-unasked-question.md)
+- [M2: Navigator Session](m2-navigator-session.md)
+- [M3: Peer Code Review](m3-peer-code-review.md)
+- [M4: Questions Only](m4-questions-only.md)
+- [Impact Project](impact-project.md)
