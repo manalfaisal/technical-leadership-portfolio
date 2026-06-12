@@ -14,6 +14,10 @@ Pinned Slack resource hub containing links and examples related to chatbot devel
 
 <img width="1125" height="480" alt="Screenshot 2026-06-11 at 8 55 18 PM" src="https://github.com/user-attachments/assets/bbac6371-f236-4b48-a31f-0e4dbe9debee" />
 
+## Signal It Landed
+
+The resource received positive reactions from scholars and was pinned in the channel for continued use throughout the capstone period. Multiple scholars accessed the resource hub while working on their projects, and the collection of links helped address requests for additional support around chatbot design and Gradio customization.
+
 ## Reflection
 
 This activity helped me realize that technical leadership is often about identifying information gaps before they become blockers. Rather than answering the same questions repeatedly, I created a resource that scholars could continue using independently throughout the remainder of camp. The resource received positive reactions from scholars and was pinned in the channel so it could remain accessible to the entire community. Creating it reinforced the idea that small systems and shared documentation can make technical spaces more accessible and collaborative.
