@@ -1,19 +1,19 @@
 # M1: The Unasked Question
 
-Creating a resource that solves an existing problem.
-
 ## Task
 
-Created a troubleshooting and support resource for KWK scholars experiencing recurring Zoom and Python notebook issues during AI camp.
+Created and shared a centralized capstone resource hub for KWK AI Camp scholars that compiled Gradio, chatbot development, UI/UX, and RAG-related resources in one place.
 
 ## Process
 
-I noticed multiple scholars during KWK AI Camp were running into the same technical issues repeatedly, especially around running notebook cells in order, undefined function errors, and Zoom connectivity problems. The unasked question became: “How can scholars quickly troubleshoot common technical issues without waiting for individual help in breakout rooms or direct messages?” This resource was created for House D scholars who were newer to Python, Google Colab, and virtual learning tools. I think nobody had created a centralized troubleshooting resource before because support was mostly happening reactively through one-on-one help sessions and Slack messages rather than through a shared reference guide.
+During capstone work time, I noticed multiple scholars asking for more support around chatbot design, Gradio customization, and additional features they could add to their projects. The unasked question I noticed was: "Where can we find reliable resources to continue building our projects without waiting for direct support from instructors or IAs?" This resource was created for KWK scholars working on AI chatbot capstone projects. I think nobody had answered this question before because support was mostly happening through individual conversations and office hours rather than through a centralized collection of resources that everyone could access.
 
 ## Deliverable
 
-Screenshot(s) and support messages from the troubleshooting resource shared with scholars during KWK AI Camp.
+Pinned Slack resource hub containing links and examples related to chatbot development, Gradio themes, speech recognition, image generation, chat completions, UI design, and additional project features.
 
+<img width="1125" height="480" alt="Screenshot 2026-06-11 at 8 55 18 PM" src="https://github.com/user-attachments/assets/bbac6371-f236-4b48-a31f-0e4dbe9debee" />
 ## Reflection
 
-This activity helped me think more proactively about technical leadership. I realized that solving problems is not only about answering questions when they are asked, but also anticipating where confusion might happen before people even know how to ask for help. Several scholars responded positively to troubleshooting support messages throughout camp, and some were able to resolve their issues after following the suggested fixes. Creating this resource made me more aware of how small communication systems can reduce confusion and make technical spaces feel more supportive and accessible.
+This activity helped me realize that technical leadership is often about identifying information gaps before they become blockers. Rather than answering the same questions repeatedly, I created a resource that scholars could continue using independently throughout the remainder of camp. The resource received positive reactions from scholars and was pinned in the channel so it could remain accessible to the entire community. Creating it reinforced the idea that small systems and shared documentation can make technical spaces more accessible and collaborative.
+
